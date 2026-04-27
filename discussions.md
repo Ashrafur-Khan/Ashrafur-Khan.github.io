@@ -9,27 +9,25 @@ This section organizes my IST 110 discussion posts by lesson. For now, it focuse
 
 ## L00: Group Collaboration
 
-**Prompt:** Was there a work style mentioned which you identified with, or do you feel that none of these categories fit your style?
+**Prompt:** Was there a work style mentioned which you identified? Or, do you feel that none of these categories fit your style? Please explain your answer.
 
-While I do not strongly align with any one category, I think the **Prioritizer** style is the closest match for me in group work. In technical courses and professional settings, I tend to be very data-driven, but I also try to understand the bigger picture before breaking a project down into smaller tasks. That approach helps me think through what needs to be done first and how the group can make steady progress.
+While I don't strongly align with any of the aformentioned categories, I think 'Prioritizers' are what I am most similar to when working with a group. Throughout mt time in group projects in my technical courses or even in my professional experiences, I've always been very data driven, but I also do my best to grasp the bigger picture of whatever we have to tackle before we can break it down into tasks we can make progress on.
 
-**Prompt:** Do you think understanding work styles can lead to better group collaboration?
+**Prompt:** Do you think understanding work styles can lead to better group collaboration? Please explain.
 
-Yes and no. I do think it is important to understand each team member's strengths and weaknesses, because that can improve communication and help divide responsibilities more effectively. At the same time, I do not think people should be boxed into one specific type of worker, because that can limit how others see their abilities and how they contribute.
+Yes and no. I do think that it is important we understand our team members' strengths and weaknesses, but I don't think we should box eachother into what specific type of worker we are, as that may limit a person's ability.
 
 ## L01: Introduce Yourself and Explain What Interests You Most in IT
 
-My name is Ashrafur, and I am a senior graduating this semester with a major in Computational Data Science and minors in Math and Supply Chain and Information Systems and Technology. I need this class for my minor, and I am excited to learn more about IT and connect what I learn here with the knowledge I have built over the last four years of college.
+My name is Ashrafur, I'm a senior and am graduating this semester with a major in Computational Data Science and minors in Math and Supply Chain and Information Systems and Technology. I need this class for my minor, and I'm really excited to learn more about the IT space and piece what I learn here with the knowledge I've aquired over the last four years of college.
 
-From the online textbook, the chapter I am most looking forward to is **Chapter 7 on data organization**. There are an enormous number of problems that can be solved by using the data available to us, especially when that data helps uncover root causes and supports better decision-making. That is why this topic stands out to me.
+From the online textbook, I'd have to say that the chapter I'm most looking forward to is Chapter 7, which focuses on data organization. There are just an unimaginable number of problems that are waiting to be solved by using the data we have available to us, and figuring out the root causes of issues that we can then work on fixing, and I think that's a big chunk of what this chapter will go into.
 
-Because my major is in the College of Engineering, much of my coursework has focused on the theoretical foundations of data science, including data structures, algorithms, and statistics. I think that gives me a strong base that I can carry into data engineering or data science roles after graduation. Through internships and personal projects, I have also found that I learn new tools and technologies relatively quickly because I understand how many of them work under the hood.
+Since my major is in the college of engineering, it focuses a lot more on the theoretical foundations of data science (many courses on data structures and algorithms, statistics, etc) which I feel gives me a strong foundation that I can carry with me to any data engineering/data science job I land after graduating. I've held a few technical internships, and through those and my personal projects, I've found that I pick up new tools and technologies relatively quickly because I have a good grasp of how things work under the hood. However, a limitation with my major is that at times, it may be a bit too specialized and focused on data science theory, and lacks classes that focues more on the hardware side (computer architecture, operating systems, etc) so this limits me from working on lower level code as effectively.
 
-At the same time, one limitation of my major is that it can sometimes be too specialized around data science theory and not as focused on lower-level hardware or systems topics such as computer architecture and operating systems. Because of that, I feel less confident working with lower-level code than I do with data and web technologies.
+My current technical strengths are primarly in data science technologies and languages, but I also have thorough experience with web technologies as well. However, my weaknesses are in systems programming languages like C or Rust.
 
-My current strengths are mainly in data science tools and languages, but I also have solid experience with web technologies. My weaker areas are systems programming languages like C and Rust.
-
-Outside of academics, I enjoy spending time with friends, watching soccer, reading history, lifting regularly, and hiking. Last summer I took a solo trip to the Faroe Islands, and this summer I plan to summit Mount Kenya.
+In terms of hobbies, I love to hang out with friends and watch soccer, I'm a nerd when it comes to history, and I like lifting regularly. I also love to hike! I did a solo trip to the Faroe Islands last summer, and this summer I plan to summit Mt Kenya!
 
 ## L02: Binary Statement
 
@@ -39,35 +37,25 @@ Outside of academics, I enjoy spending time with friends, watching soccer, readi
 2. This is a binary code
 3. I love data
 
-I initially translated the characters manually using this ASCII reference table: [sticksandstones.kstrom.com/appen.html](http://sticksandstones.kstrom.com/appen.html)
+I initially translated these characters manually by using this table: [http://sticksandstones.kstrom.com/appen.html](http://sticksandstones.kstrom.com/appen.html)
 
-To verify my answers, I used this binary-to-ASCII converter: [binaryhexconverter.com/binary-to-ascii-text-converter](https://www.binaryhexconverter.com/binary-to-ascii-text-converter)
+To check my answers, used a binary to ascii text converter that I found here: [https://www.binaryhexconverter.com/binary-to-ascii-text-converter](https://www.binaryhexconverter.com/binary-to-ascii-text-converter)
 
-This was a great activity because it reinforced the way computers "think" and process information. Everything we see on a screen can ultimately be broken down into a large collection of on and off switches represented as binary, and that is the language that allows us to communicate with computer hardware.
+This was a great activity that reinforces the way computers 'think' and process information. Everything we see on screen can be boiled down to a giant collection of on and off switches, which are represented as binary, and that is the language that allows us to talk to the actual hardware of computers.
 
-After comparing my translations with my peers, it seemed that almost everyone arrived at the same answers.
+After comparing my translations with my peers, it seems almost everyone has the same answers.
 
 ## L03: Data Analytics
 
-I chose to focus on **prompts 5 and 6**.
+I chose to focus on prompts 5 and 6.
 
-I am already fairly familiar with these terms because data science and data engineering are my main areas of study, and I have also had work experience in the field. Even with that background, though, I still come across terms or ideas that I do not fully understand at first.
-
-In general, I think about these concepts in a simple progression:
-
-- **Descriptive analytics** asks, "What happened?"
-- **Predictive analytics** asks, "What is likely to happen?"
-- **Prescriptive analytics** asks, "What should be done?"
-
-When I encounter a data analytics problem, this is usually the order I use to think through it. Looking at the concepts this way makes them feel connected, because each one builds naturally on the one before it.
+I'm quite familiar with all of these terms, as data science/engineering is my primary field of study, and I've held a few work experiences in the field as well. However, even despite my experiene I will often come acorss terms I don't fully understand. In general though, I like to think about 'descriptive' as "what actually happened?", 'predictive' as answering questions like "what's likely to happen?", and 'prescriptive' as "what should be done here?". Whenever I come across a data analytics problem, this is the order I tackle the problem in. When I think about these problems in this way, these concepts naturally build on top of eachother.
 
 ## L04: Hardware
 
-When it comes to gaming and graphics, optimizing performance for weaker hardware is important. Large publishers generally understand that the market includes a wide range of computers, so they try to make sure their games are at least somewhat playable on average hardware. There are cases where companies ignore this and end up with commercial failures, but most games released today can still be enjoyed best on stronger hardware.
+When it comes to gaming and graphics, optimizing the performance of a game for weaker hardware is key. Generally, large publishers understand that the market is filled with a wide range of computers, and as such they aim to make sure that their games are at least somewhat playable on 'average' hardware. There are examples where certain companies disregard this, and as such their games end up being commercial failures. Despite this, the vast majority of games that come out today can be enjoyed best on good hardware. That means having a capable cpu and gpu to run these new, computationally expensive games as best as possible, and consumers know this, which is why many are still willing to pay a premium to set up a good gaming computer to experience it.
 
-That means having a capable CPU and GPU to handle newer and more computationally expensive games. Many consumers know this, which is why they are still willing to pay a premium to build a solid gaming PC and get the best possible experience.
-
-This connects to a broader trend in the tech industry. Consumer hardware prices can be influenced by rising demand from major AI companies that need high-end components to train models. The same companies involved in producing hardware for large-scale computing also help supply consumer markets, so when demand surges on one side, everyday buyers can feel the impact as well.
+This leads naturally to a trend in the tech space recently, where consumer ram has shot up in price due to frontier AI labs' demand for it. Ram is a key component in anyone's computer setup, and even though generally a computer is a depreciating asset, these insane price hikes have even made some setups go up in value! These ram price increases are due to AI labs like OpenAI, Anthropic, xAI, etc, and their increased demand for quality hardware that they need to train their new models. The hardware they need is produced by many of the same comapnies that are responible for supplying consumer graphics cards and consumer ram. For example, the price hikes in graphics cards were caused by a similar reason with Nvidia and AMD a few years ago when these labs were first on the rise, and we are seeing this now with Ram.
 
 ## L05: Operating System
 
@@ -75,29 +63,25 @@ This connects to a broader trend in the tech industry. Consumer hardware prices 
 
 Hi Windows,
 
-I hope this letter finds you well. I know it has been a few years now, but I still think back to our time together. I was with you through your high point with Windows 7 and your low point with Windows 8, but after Windows 10, I hope you understood why I left.
+I hope this letter finds you well. I know it has been a few years now, but I still think back to our time together. I had been with you at your highest with Windows 7, and lowest with Windows 8, but after Windows 10, I hope you understood why I left. I did keep up with you from the sidelines though, and saw you grow into your 10th iteration to be a strong and complete operating system. Thats why it saddens me to see you at a new low with Windows 11. I wish I could muster up more sympathy for you, but I can't. Regardless of how many mistakes you make, you essentially have an infinite amount of cash flow backing you, and a user base that is forced to stay with you. I hope the next time we check in, you're in a better state. The least you can do is to at least make the essential features in your system functional, and reelback on the heavy insistence on integrating your horrible LLM into every facet of the OS. I hope for your users' sake that these are just growing pains, the same you had experienced with Windows 10, and not a signal of the way you'll stay, which happend with Windows 8.
 
-I still kept up with you from the sidelines and saw you grow into a more complete operating system over time. That is why it saddens me to see you at another low point with Windows 11. I wish I could feel more sympathy, but I cannot. No matter how many mistakes you make, you still have enormous financial backing and a user base that often feels forced to stay with you.
-
-I hope that the next time we check in, you are in a better state. At the very least, your essential features should work reliably, and you should scale back the heavy push to integrate an LLM into every part of the operating system. For the sake of your users, I hope these are only growing pains and not a sign of the direction you plan to keep taking.
-
-Best,  
+Best,
 Ashrafur
 
 **Reflection**
 
-**Why did you choose this operating system for your letter?**
+**Why did you choose the particular operating system or application for your letter?**
 
-I chose Windows because it is the operating system I grew up with. The first computers I ever used were Windows machines, and I have spent extended time with versions ranging from Vista to Windows 10.
+I chose Windows because its the OS that I grew up with. The first computers I ever used were Windows machines, and I've used everything from Vista to Windows 10 for an extended period of time.
 
 **What emotions did you feel while writing the letter?**
 
-I felt disappointment. Windows is owned by a multi-billion-dollar company, and it built its huge user base by making strong products. Now it feels like many users stay with it because it is the most affordable and accessible option, even when the user experience has become worse.
+I felt dissapontment. At the end of the day, Windows is owned by a multi-billion dollar company and they gained their massive user base by creating decent products, but now it feels like many of these users are stuck with Windows because it is generally the more affordable and accessible option, even though their user experience has deteriorated greatly.
 
 **How does this activity reflect the role technology plays in our lives?**
 
-I think technology plays a major role in our lives, and this activity shows that we can form real attachments and strong opinions about the tools we use regularly.
+I think technology plays a massive role in our lives, and this activity shows how we have an attachment to it.
 
-**Did writing the letter help you better understand your feelings toward the technology you interact with?**
+**Did the process of writing the letter help you better understand your feelings toward the technology you interact with?**
 
-Somewhat, yes. I usually have strong opinions about the things I care about, and this activity brought those feelings out more clearly.
+Somewhat yes. I generally have strong opinions on things I care about, and this activity brought that out.
