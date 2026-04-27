@@ -14,4 +14,4 @@ Welcome to my IST 110 digital portfolio. This site is hosted with GitHub Pages a
 
 ## Portfolio Approach
 
-I am using GitHub Pages as the publishing platform for this portfolio. Course work is organized into simple markdown pages so my work stays easy to update and review. 
+I am using GitHub Pages as the publishing platform for this portfolio. For now, the site is quite barren as I had to restart my progress due to moving my portfolio website from powerpoint. Course work is organized into simple markdown pages so my work stays easy to update and review. 
