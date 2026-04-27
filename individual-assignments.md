@@ -19,7 +19,7 @@ This infographic explains four core parts of computational thinking: decompositi
 
 **Reflection:** While creating my infographics, I focused on turning technical ideas into something visually simple and easy to understand. This one coveres the basic of computatonal thinking. 
 
-![L010 ESSENTIALS OF DATA PROTECTION: A STRATEGIC GUIDE](./images/Purple and White Modern Cybersecurity Technology Infographic (1).pdf)
+![L010 ESSENTIALS OF DATA PROTECTION: A STRATEGIC GUIDE](./images/dataprotectionnfographic.png)
 
 **Reflection:**
 For this infographic, I covered the essentials of data protecion and chose to write it as if it were a guide both for users and companies. The concepts can be applied for a wide range of use cases and cover the core concepts of data protection. 
