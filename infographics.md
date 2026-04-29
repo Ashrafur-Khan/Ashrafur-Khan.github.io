@@ -3,10 +3,6 @@ layout: default
 title: Individual Assignments
 ---
 
-# Individual Assignments
-
-This section contains my IST 110 individual coursework. I am organizing visual artifacts in a shared `images` folder so they can be reused cleanly across the portfolio.
-
 ## Infographics
 
 This subsection highlights infographic-based assignments. Each entry includes the title, the visual artifact, and a short reflection on what I learned from creating it.
@@ -19,6 +15,7 @@ This infographic explains four core parts of computational thinking: decompositi
 
 **Reflection:** While creating my infographics, I focused on turning technical ideas into something visually simple and easy to understand. This one coveres the basic of computatonal thinking. 
 
+## L10: Activity 3: Infographic on a Security Concept
 ![L010 ESSENTIALS OF DATA PROTECTION: A STRATEGIC GUIDE](./images/dataprotectionnfographic.png)
 
 **Reflection:**
