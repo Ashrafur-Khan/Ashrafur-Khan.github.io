@@ -3,6 +3,8 @@ layout: default
 title: Individual Assignments
 ---
 
+- [Home](./index.md)
+
 # Individual Assignments
 
 This section contains my IST 110 individual coursework. I am organizing visual artifacts in a shared `images` folder so they can be reused cleanly across the portfolio.
@@ -43,6 +45,8 @@ article listed on the assignment. Overall, the results were not very relevant to
 of my search results came up more so because the Psu library search engine detected matching
 key words rather than finding an article that was closely related to what I was looking for.
 
+**Reflection:** This assignment pushed me to be more precise with how I search for sources, which is useful because broad terms can lead to a pile of almost useful results. I learned that database filters matter, but they still need patience and a little stubbornness to get the right article. The search process also showed me how information systems shape what users actually find.
+
 
 ### L02: Activity: Binary Representation
 
@@ -58,6 +62,11 @@ computers, as it utilizes bits to represnt data, control logic gates, and manage
 References
 Binary game: https://learningnetwork.cisco.com/s/binary-game
 Tutorial on how to convert binary to decimal: https://www.youtube.com/watch?v=VLflTjd3lWA
+
+**Reflection:** This activity made binary feel less like a memorization exercise and more like a basic language that computers use all the time. I liked having to check my work with another tool, because it showed me how small mistakes can change the whole answer. It also made the low level side of computing feel a little less mysterious, which is useful.
+
+### L03: Look in Infographics page
+- [Infographics](./infographics.md)
 
 
 ### L04: Hardware Dissection Lab
@@ -113,6 +122,8 @@ because it had quite a few parts scattered on both the top and bottom half of th
 more input than just a touch screen. Overall, though, the motherboards for both do have some
 similarities, and that is to be expected, but both devices serve distinct purposes which are
 reflected in the differences in their designs.
+
+**Reflection:** This lab made me pay more attention to how physical design affects the way a device works. I expected the iPhone to be cleaner in its layout, but the 3DS showed me how many separate parts can still fit into a compact system. Looking at both devices side by side made the hardware concepts feel more concrete than a textbook page usually does.
 
 ### L05: Choose the Best OS
 
@@ -175,6 +186,8 @@ creative set of tools mentioned earlier, and offers a seamless experience.
 Windows would be best for an interior design firm, as it would likely support all the industry-
 standard applications needed for its employees to work effectively.
 
+**Reflection:** This assignment made me think more carefully about how an operating system shapes the work a company can actually do. I focused on cost, support, and compatibility because those details matter once a business has to keep things running day after day. It also reminded me that picking software is usually about tradeoffs, even when one option looks easy on paper.
+
 ### L07: CODIS Cold Case
 
 I chose to cover the report “30-Year-Old Murder Solved. Fingerprint Technology Played Key
@@ -192,6 +205,8 @@ What should be done with DNA samples from persons who are not convicted of a cri
 This article is focused on an actual convicted person, but in general the FBI's broader policy is
 that DNA profiles in national databases are for law enforcement to use only.
 
+**Reflection:** This case showed me how older evidence can still matter when technology improves later on. I found it interesting that fingerprints and DNA both played a role, because it made the investigation feel more layered and practical. It also made the privacy side of forensic databases harder to ignore, since the same tools that solve crimes also hold sensitive information.
+
 ### L07: Music Genome Project
 
 The Music Genome Project was founded in 1999 by Will Glaser and Tim Westgren, who are the
@@ -208,9 +223,13 @@ together and I could see them all being in the same playlist. The clue this give
 database is that it sorts not only by the genre of the artist, but also what other artists people who
 like this one listen to and if they listen to them consecutively.
 
+**Reflection:** This project made the recommendation system behind music streaming feel more visible. I did not think about how much of the logic depends on patterns across listeners until I looked at the station results more closely. It also showed me that databases can support a listening experience that feels casual on the surface but structured underneath.
+
 ### L08: Activity 2: OSINT
 
 ![L08: Activity 2: OSINT](./images/HTMLassignment.png)
+
+**Reflection:** This assignment made me think more about how much can be learned from open sources alone. I had to be careful about what information I treated as useful, because OSINT depends on filtering noise and checking what is actually reliable. It was a good reminder that public data still needs context before it becomes meaningful.
 
 ### L09: JavaScript
 
@@ -221,6 +240,11 @@ listener.
 The best choice between the if and if else depends on the number of outcomes you need to
 handle. If statements are best for a yes/no check, but if else can be added repeated, and allows for
 handeling more complex situations. 
+
+**Reflection:** This assignment gave me a more practical look at how JavaScript responds to user actions. I liked seeing the difference between output that happens automatically and output that depends on a click, because that is the kind of behavior users actually notice. It also reinforced that even simple control flow can shape how interactive a page feels.
+
+### L10: Look in Infographics page
+- [Infographics](./infographics.md)
 
 ### L11: What do Companies Know About You?
 
@@ -257,6 +281,8 @@ school, pictures of myself from competitions, and my profile on Linkedin. Howeve
 my other social media is set to private I did not seem to pop up for those. These were all
 correct and I don’t need them to be removed. If I did want these removed though, I would
 have to contact YouTube support and the author of the articles to take them down.
+
+**Reflection:** This assignment made privacy feel less abstract because I could see my own name turning up in public places. I already knew that some information would be searchable, but the amount of connected data was still a little more than I wanted to see. It also showed me that managing your online presence usually means dealing with several different platforms instead of one clean fix.
 
 
 ### L12: Cybercrime Assignment
@@ -302,6 +328,8 @@ R. (2023). How to punish cyber criminals: A study to investigate the target and
 consequence based punishments for malware attacks in UK, USA, China, Ethiopia &
 Pakistan. Heliyon, 9(12), e22823. https://doi.org/10.1016/j.heliyon.2023.e22823
 
+**Reflection:** This paper made me think about punishment as a system that should change behavior, not just collect consequences. I spent most of my time weighing rehabilitation against deterrence, because both have a place depending on the harm involved. It also helped me connect cybercrime to wider justice system ideas, which gave the topic more structure than a simple legal debate.
+
 ### L13: Enterprise Technology Integration Assignment 
 
 Walmart, Retail. AI, automation, and e-commerce technologies help Walmart optimize
@@ -321,4 +349,4 @@ only enhances production efficiency but generates additional revenue through sof
 and other related services.
 https://finance.yahoo.com/news/tesla-profit-tanked-46-2025-211611664.html
 
-
+**Reflection:** This assignment helped me compare how different companies use technology for different goals. I paid attention to how automation, AI, and software support the business model in each case, because the same tools can mean different things in retail, cloud, or automotive work. It also showed me that enterprise technology is usually a mix of efficiency, scale, and revenue strategy.

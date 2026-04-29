@@ -3,6 +3,8 @@ layout: default
 title: Discussions
 ---
 
+- [Home](./index.md)
+
 # Discussions
 
 This section organizes my IST 110 discussion posts by lesson. For now, it focuses only on my assigned prompt responses. I may add my replies to classmates later as a separate section.

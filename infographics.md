@@ -3,6 +3,8 @@ layout: default
 title: Individual Assignments
 ---
 
+- [Home](./index.md)
+
 ## Infographics
 
 This subsection highlights infographic-based assignments. Each entry includes the title, the visual artifact, and a short reflection on what I learned from creating it.
